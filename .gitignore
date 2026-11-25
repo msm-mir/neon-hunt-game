@@ -1,13 +1,2 @@
-#microsoft word or libreoffice file
-*.odt
-*.docs
-
-#project doc
-minimax.pdf
-
-#images
-/img
-
-#env maybe?
-/env
-/venv
+/__pycache__/
+/docs
